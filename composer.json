@@ -1,0 +1,17 @@
+{
+    "name": "altafin/inspire",
+    "autoload": {
+        "psr-4": {
+            "Altafin\\Inspire\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "altafin",
+            "email": "marbr72@hotmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0.1"
+    }
+}
