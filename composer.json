@@ -8,7 +8,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Altafin\\Inspire\\InspirationProvider"
+                "Altafin\\Inspire\\Providers\\InspirationProvider"
             ]
         }
     },
