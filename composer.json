@@ -5,6 +5,13 @@
             "Altafin\\Inspire\\": "src/"
         }
     },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Altafin\\Inspire\\InspirationProvider"
+            ]
+        }
+    },
     "authors": [
         {
             "name": "altafin",
@@ -13,12 +20,5 @@
     ],
     "require": {
         "guzzlehttp/guzzle": "^7.0.1"
-    },
-    "extra": {
-        "laravel": {
-            "providers" : [
-                "Altafin\\Inspire\\InspirationProvider"
-            ]
-        }
     }
 }
